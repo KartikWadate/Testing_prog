@@ -11,5 +11,11 @@ public class A
 		
 		System.out.println("Hello-----Kartik");
 	}
+	public void m2()
+	{
+		
+		System.out.println("Hello-----Kartik");
+	}
+
 
 }
